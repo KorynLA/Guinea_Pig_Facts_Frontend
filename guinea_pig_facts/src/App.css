@@ -1,0 +1,27 @@
+body {
+  background-color: #565656;
+  color: black;
+}
+.App {
+  text-align: center;
+}
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+}
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+.corner_guinea_pig {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  height: 40vmin;
+}
